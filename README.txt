@@ -1,0 +1,1 @@
+To upload from S3. S3 stands for Simple Storage Service and it is a store to house large files and documents (more info here http://aws.amazon.com/s3). A UI which allows the user to upload a text file from the browser. Then you should count the no. of words in the file and output the word count to the user. Then upload the file to S3.
